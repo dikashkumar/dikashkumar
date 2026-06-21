@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Dikash Kumar S
+# 👋 Hey, I'm Dikash Kumar S
 
-### 🚀 Computer Science Engineering Student | Aspiring Software Engineer | Tech Enthusiast
+### 🚀 Computer Science Engineering Student | Python Developer | ML Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;UI%2FUX+Enthusiast+🎨;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;Future+Software+Engineer+🚀" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -16,89 +14,150 @@
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.E. Computer Science and Engineering Student
 
-💻 Passionate about Software Development, Machine Learning, and Emerging Technologies
+🏫 SNS College of Technology, Coimbatore
 
-🌱 Currently learning:
+📍 Tamil Nadu, India
+
+💻 Passionate about:
+- Software Development
+- Machine Learning
+- Data Science
+- Full Stack Development
+- UI/UX Design
+
+🌱 Currently Learning:
+- Advanced Python
 - Data Structures & Algorithms
 - Machine Learning
-- Full Stack Development
-- Cloud & DevOps
+- MongoDB
+- Cloud Technologies
 
-🚀 Goal:
-> To become a skilled Software Engineer capable of building impactful and scalable solutions.
+🎯 Career Goal:
+> To become a Software Engineer who builds innovative and impactful solutions for real-world problems.
 
-⚡ Fun Fact:
-> I believe consistency beats talent when talent doesn't work hard.
+---
+
+# 🚀 What I'm Working On
+
+🔹 Machine Learning Projects
+
+🔹 Full Stack Web Applications
+
+🔹 Open Source Contributions
+
+🔹 Problem Solving & DSA
+
+🔹 Building Real World Software Solutions
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
 </p>
 
-## Web Development
+## 🌐 Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
 </p>
 
-## Databases
+## 🎨 UI/UX & Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-## Tools & Platforms
+## ⚙️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
-
-## Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,tensorflow" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Featured Projects
 
-## 🏠 House Price Prediction
-Machine Learning project that predicts house prices using Linear Regression.
+## 🏠 House Rent & House Pooling Platform
 
-### Technologies
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
+A web-based platform that enables users to:
+
+✔ Find rental houses
+
+✔ Share accommodation costs
+
+✔ Connect with potential roommates
+
+✔ Reduce living expenses through house pooling
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+- MongoDB
 
 ---
 
-## 📈 YouTube View Prediction
-Predicting YouTube video views using Machine Learning techniques.
+## 🌾 Climate-Responsive Crop Recommendation
 
-### Technologies
+An intelligent recommendation system that suggests suitable crops based on:
+
+✔ Climate conditions
+
+✔ Soil characteristics
+
+✔ Environmental factors
+
+✔ Agricultural data analysis
+
+### Technologies Used
 - Python
 - Machine Learning
 - Data Analysis
 
 ---
 
-## 🤖 Machine Learning Mini Projects
-A collection of beginner-friendly ML projects for learning and experimentation.
+## 🌍 EcoQuest: Gamified Environmental Learning Platform
+
+An educational platform that makes environmental learning fun through:
+
+✔ Interactive Challenges
+
+✔ Quizzes & Rewards
+
+✔ Eco Missions
+
+✔ Sustainability Awareness
+
+### Technologies Used
+- Python
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and achievements.
+## 🏧 ATM Cash Requirement Prediction
+
+Machine Learning model that predicts ATM cash demand to:
+
+✔ Reduce cash shortages
+
+✔ Improve cash management
+
+✔ Optimize ATM operations
+
+✔ Enhance banking efficiency
+
+### Technologies Used
+- Python
+- Machine Learning
+- Data Analytics
 
 ---
 
@@ -106,9 +165,9 @@ Personal portfolio showcasing projects, skills, and achievements.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -116,31 +175,44 @@ Personal portfolio showcasing projects, skills, and achievements.
 
 # 📈 Contribution Graph
 
-[![Dikash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night)](https://github.com/dikashkumar)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night)](https://github.com/dikashkumar)
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Strengthen DSA skills
-- ✅ Build 10+ Real World Projects
-- ✅ Contribute to Open Source
-- ✅ Learn Cloud Computing
-- ✅ Master Machine Learning
-- ✅ Secure Software Engineering Internship
+✅ Build 15+ Real World Projects
+
+✅ Master Python Development
+
+✅ Strengthen DSA Skills
+
+✅ Learn Cloud & DevOps
+
+✅ Contribute to Open Source
+
+✅ Secure Software Engineering Internship
 
 ---
 
-# 📚 Learning Journey
+# 📚 Certifications
+
+🏅 Microsoft Azure AI Fundamentals
+
+🏅 TATA GenAI Powered Data Analytics
+
+🏅 Infosys Basics of Python
+
+🏅 Programming in Java
+
+🏅 NPTEL Courses
+
+---
+
+# 💡 Developer Mindset
 
 ```python
-while(True):
+while True:
     learn()
     build()
     fail()
@@ -150,7 +222,7 @@ while(True):
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -158,11 +230,11 @@ while(True):
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:dikashkumar5123@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -172,8 +244,8 @@ while(True):
 
 <div align="center">
 
-### 🚀 Building Skills One Commit At A Time
+### 🚀 Building Solutions, One Commit At A Time
 
-⭐ If you like my work, consider following me and starring my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>
