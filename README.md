@@ -186,6 +186,8 @@ Find rental houses and connect with roommates.
 
 </p>
 ---
+
+---
 <div align="center">
 
 ### 🚀 Building Solutions, One Commit At A Time
@@ -195,3 +197,4 @@ Find rental houses and connect with roommates.
 💡 "Code. Learn. Build. Repeat."
 
 </div>
+---
