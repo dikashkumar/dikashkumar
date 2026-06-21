@@ -1,26 +1,28 @@
-<div align="center">
+<h1 align="center">🚀 Dikash Kumar S</h1>
 
-# 👋 Hey, I'm Dikash Kumar S
+<h3 align="center">
+Computer Science Engineering Student • Python Developer • ML Enthusiast
+</h3>
 
-### 🚀 Computer Science Engineering Student | Python Developer | ML Enthusiast
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;Future+Software+Engineer+🚀" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;Future+Software+Engineer+🚀" />
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-
-</div>
+</p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering Student
+🎓 B.E Computer Science & Engineering
 
-🏫 SNS College of Technology, Coimbatore
+🏫 SNS College of Technology
 
-📍 Coimbatore,Tamil Nadu, India
+📍 Tamil Nadu, India
 
-💻 Passionate about:
+💡 Passionate About
 
 - Software Development
 - Machine Learning
@@ -28,190 +30,137 @@
 - Full Stack Development
 - UI/UX Design
 
-🌱 Currently Learning:
+🌱 Currently Learning
 
 - Advanced Python
-- Data Structures & Algorithms
+- DSA
 - Machine Learning
 - MongoDB
 - Cloud Technologies
 
-🎯 Career Goal:
+🎯 Goal
 
-> To become a Software Developer who builds innovative and impactful solutions for real-world problems.
-
----
-
-# 🚀 What I'm Working On
-
-🔹 Machine Learning Projects
-
-🔹 Full Stack Web Applications
-
-🔹 Open Source Contributions
-
-🔹 Problem Solving & DSA
-
-🔹 Building Real World Software Solutions
+Become a Software Engineer building impactful real-world solutions.
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-## 👨‍💻 Programming Languages
+### Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
-## 🌐 Full Stack Development
+### Web Development
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
 </p>
 
-## 🎨 UI/UX & Design
+### UI / UX
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-## ⚙️ Tools & Platforms
+### Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
 
-# 🏆 Featured Projects
+## 🚀 Featured Projects
 
-## 🌾 Climate-Responsive Crop Recommendation
+### 🌾 Climate Responsive Crop Recommendation
 
-An intelligent recommendation system that suggests suitable crops based on climate, soil conditions, and environmental factors to improve agricultural productivity and sustainability.
+AI-powered crop recommendation system based on climate and soil conditions.
 
-### Technologies Used
-
-- Python
-- Machine Learning
-- Data Analysis
+**Tech:** Python • Machine Learning
 
 ---
 
-## 🏧 ATM Cash Requirement Prediction
+### 🏧 ATM Cash Requirement Prediction
 
-Machine Learning model that predicts ATM cash demand to optimize cash distribution and prevent shortages.
+Predicts ATM cash demand to optimize cash distribution.
 
-### Technologies Used
-
-- Python
-- Machine Learning
-- Data Analytics
+**Tech:** Python • Machine Learning
 
 ---
 
-## 🍽️ Canteen Food Management System
+### 🍽️ Smart Canteen Management System
 
-A smart digital platform designed to streamline college canteen operations by enabling students to pre-order meals, track orders, and make cashless payments.
+- Online Ordering
+- QR Tracking
+- Cashless Payment
+- Analytics Dashboard
 
-### Key Features
-
-✔ Online Food Ordering
-
-✔ Digital Menu Management
-
-✔ QR-Based Order Tracking
-
-✔ Cashless Payments
-
-✔ Inventory Management
-
-✔ Student & Admin Dashboard
-
-✔ Food Waste Reduction
-
-✔ Sales Analytics
-
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-- Node.js
-- Figma
+**Tech:** HTML • CSS • JavaScript • MongoDB • Node.js
 
 ---
 
-## 🌍 EcoQuest: Gamified Environmental Learning Platform
+### 🌍 EcoQuest
 
-An interactive educational platform that promotes environmental awareness through quizzes, challenges, rewards, and sustainability missions.
+Gamified environmental learning platform with quizzes and rewards.
 
-### Technologies Used
-
-- Python
-- HTML
-- CSS
-- JavaScript
+**Tech:** Python • HTML • CSS • JavaScript
 
 ---
 
-## 🏠 House Rent & House Pooling Platform
+### 🏠 House Rent & Pooling Platform
 
-A web-based platform that helps users find rental houses, share accommodation costs, and connect with potential roommates.
+Find rental houses and connect with roommates.
 
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- MongoDB
+**Tech:** HTML • CSS • JavaScript • MongoDB
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dikashkumar&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night)](https://github.com/dikashkumar)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
-# 🎯 2026 Goals
-
-✅ Build 15+ Real World Projects
-
-✅ Master Python Development
-
-✅ Strengthen DSA Skills
-
-✅ Learn Cloud & DevOps
-
-✅ Contribute to Open Source
-
-✅ Secure Software Engineering Internship
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night" />
+</p>
 
 ---
 
-# 📚 Certifications
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build 15+ Projects
+- ✅ Master Python
+- ✅ Strengthen DSA
+- ✅ Learn Cloud & DevOps
+- ✅ Open Source Contributions
+- ✅ Software Engineering Internship
+
+---
+
+## 📜 Certifications
 
 🏅 Microsoft Azure AI Fundamentals
 
@@ -225,61 +174,11 @@ A web-based platform that helps users find rental houses, share accommodation co
 
 ---
 
-# 💡 Developer Mindset
+## 💻 Developer Mindset
 
 ```python
 while True:
     learn()
     build()
-    fail()
     improve()
     repeat()
-```
-
----
-
-# 🌟 Areas of Interest
-
-🤖 Machine Learning
-
-📊 Data Science
-
-🌐 Full Stack Development
-
-🎨 UI/UX Design
-
-☁️ Cloud Computing
-
-🚀 Emerging Technologies
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/dikashkumar">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/dikashkumar-s">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:dikashkumar5123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Building Solutions, One Commit At A Time
-
-⭐ Thanks for visiting my profile!
-
-💡 "Code. Learn. Build. Repeat."
-
-</div>
