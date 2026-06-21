@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Dikash Kumar S
 
-### 🚀 Computer Science Engineering Student | Python Developer | ML Enthusiast
+### 🚀 Computer Science and Engineering Student | Python Developer | ML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;Future+Software+Engineer+🚀" />
 
@@ -38,7 +38,7 @@
 
 🎯 Career Goal:
 
-> To become a Software Engineer who builds innovative and impactful solutions for real-world problems.
+> To become a Software Developer who builds innovative and impactful solutions for real-world problems.
 
 ---
 
@@ -61,7 +61,7 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ## 🌐 Full Stack Development
@@ -73,13 +73,13 @@
 ## 🎨 UI/UX & Design
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
