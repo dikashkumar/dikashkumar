@@ -193,3 +193,5 @@ Find rental houses and connect with roommates.
 ⭐ Thanks for visiting my profile!
 
 💡 "Code. Learn. Build. Repeat."
+
+</div>
