@@ -1,88 +1,122 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=Dikash%20Kumar%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Dikash%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
 # 👋 Hey, I'm Dikash Kumar S
 
-### 🚀 Computer Science & Engineering Student | Python Developer | ML Enthusiast
+### 🚀 Computer Science Engineering Student | Python Developer | Full Stack Developer | ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;UI%2FUX+Designer+🎨;Future+Software+Engineer+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;UI%2FUX+Designer+🎨;Future+Software+Engineer+🚀;Always+Learning+New+Technologies+💡"/>
 
-<img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dikashkumar&style=for-the-badge&color=blueviolet"/>
 
 <img src="https://img.shields.io/github/followers/dikashkumar?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/dikashkumar?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-# 💫 About Me
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikashkumar&theme=tokyonight"/>
 
-🎓 B.E Computer Science and Engineering Student
+</div>
 
-🏫 SNS College of Technology
+---
 
-📍 Coimbatore, Tamil Nadu, India
+# 👨‍💻 About Me
 
-💡 Passionate about solving real-world problems through technology
+```yaml
+Name: Dikash Kumar S
 
-🚀 Interested in:
+Education:
+  Degree: B.E Computer Science and Engineering
+  College: SNS College of Technology
+  Location: Coimbatore, Tamil Nadu
 
-- Machine Learning
-- Full Stack Development
-- UI/UX Design
-- Data Science
-- Emerging Technologies
+Passionate About:
+  - Machine Learning
+  - Full Stack Development
+  - Data Science
+  - UI/UX Design
+  - Emerging Technologies
 
-🌱 Currently Learning:
+Currently Learning:
+  - Advanced Python
+  - MongoDB
+  - DSA
+  - Cloud Computing
+  - Machine Learning
 
-- Advanced Python
-- MongoDB
-- DSA
-- Cloud Computing
-- Machine Learning
+Career Goal:
+  Become a Software Developer who builds
+  impactful solutions for real-world problems.
+```
 
-🎯 Goal:
+---
 
-> Building impactful software that solves real-world challenges.
+# 🚀 Current Focus
+
+🔹 Building Real World Projects
+
+🔹 Machine Learning Applications
+
+🔹 Full Stack Development
+
+🔹 Open Source Contributions
+
+🔹 Improving Problem Solving Skills
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript"/>
 </p>
 
-### Full Stack
+## Full Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
 </p>
 
-### UI/UX
+## UI / UX
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-### Tools
+## Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
+# 📊 Skill Matrix
+
+| Category | Skills |
+|-----------|---------|
+| Programming | Python, C, Java |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js |
+| Database | MongoDB |
+| Design | Figma, Canva |
+| Tools | Git, GitHub, VS Code |
+
+---
+
 # 🚀 Featured Projects
 
-### 🌾 Climate-Responsive Crop Recommendation
+## 🌾 Climate-Responsive Crop Recommendation
 
 AI-powered crop recommendation system that suggests suitable crops based on climate and environmental conditions.
 
@@ -90,45 +124,33 @@ AI-powered crop recommendation system that suggests suitable crops based on clim
 
 ---
 
-### 🏧 ATM Cash Requirement Prediction
+## 🏧 ATM Cash Requirement Prediction
 
 Predicts ATM cash demand using historical transaction data to reduce shortages.
 
-**Tech Stack:** Python • ML • Analytics
+**Tech Stack:** Python • Machine Learning • Data Analytics
 
 ---
 
-### 🍽️ Canteen Food Management System
+## 🍽️ Canteen Food Management System
 
-Smart canteen platform for online ordering, digital payments, inventory management, and queue reduction.
-
-**Features**
-
-✅ Food Ordering
-
-✅ QR Tracking
-
-✅ Admin Dashboard
-
-✅ Cashless Payments
-
-✅ Inventory Management
+Smart canteen platform for online ordering, inventory management, digital payments, and queue reduction.
 
 **Tech Stack:** HTML • CSS • JavaScript • MongoDB • Node.js
 
 ---
 
-### 🌍 EcoQuest: Gamified Environmental Learning Platform
+## 🌍 EcoQuest: Gamified Environmental Learning Platform
 
-Interactive learning platform that teaches environmental awareness through quizzes and rewards.
+Interactive environmental learning platform with quizzes, rewards, and eco-challenges.
 
 **Tech Stack:** Python • HTML • CSS • JavaScript
 
 ---
 
-### 🏠 House Rent & House Pooling Platform
+## 🏠 House Rent & House Pooling Platform
 
-Platform that connects tenants and roommates to reduce accommodation expenses.
+Platform that helps users find rental homes and connect with roommates.
 
 **Tech Stack:** HTML • CSS • JavaScript • MongoDB
 
@@ -138,15 +160,15 @@ Platform that connects tenants and roommates to reduce accommodation expenses.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -162,29 +184,19 @@ Platform that connects tenants and roommates to reduce accommodation expenses.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
-🚀 Build 15+ Projects
+✅ Build 15+ Projects
 
-🚀 Master Python
+✅ Master Python
 
-🚀 Learn Cloud & DevOps
+✅ Learn Cloud & DevOps
 
-🚀 Contribute to Open Source
+✅ Contribute to Open Source
 
-🚀 Become a Software Developer
+✅ Become a Software Developer
 
-🚀 Secure Top Internship
+✅ Secure Top Internship
 
 ---
 
@@ -257,6 +269,8 @@ while True:
 
 ### ⭐ Code • Learn • Build • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=600&lines=Dream+Big+💡;Code+Every+Day+🚀;Build+Projects+🔥;Keep+Learning+📚;Never+Stop+Growing+⭐"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6"/>
 
 </div>
