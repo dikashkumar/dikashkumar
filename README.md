@@ -1,181 +1,150 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=Dikash%20Kumar%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+
 # 👋 Hey, I'm Dikash Kumar S
 
-### 🚀 Computer Science and Engineering Student | Python Developer | ML Enthusiast
+### 🚀 Computer Science & Engineering Student | Python Developer | ML Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;UI%2FUX+Designer+🎨;Future+Software+Engineer+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=dikashkumar&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/dikashkumar?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/dikashkumar?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 # 💫 About Me
 
-🎓 B.E. Computer Science and Engineering Student
+🎓 B.E Computer Science and Engineering Student
 
-🏫 SNS College of Technology, Coimbatore
+🏫 SNS College of Technology
 
-📍Coimbatore Tamil Nadu, India
+📍 Coimbatore, Tamil Nadu, India
 
-💻 Passionate about:
+💡 Passionate about solving real-world problems through technology
 
-- Software Development
+🚀 Interested in:
+
 - Machine Learning
-- Data Science
 - Full Stack Development
 - UI/UX Design
+- Data Science
+- Emerging Technologies
 
 🌱 Currently Learning:
 
 - Advanced Python
-- Data Structures & Algorithms
-- Machine Learning
 - MongoDB
-- Cloud Technologies
+- DSA
+- Cloud Computing
+- Machine Learning
 
-🎯 Career Goal:
+🎯 Goal:
 
-> To become a Software Developer who builds innovative and impactful solutions for real-world problems.
-
----
-
-# 🚀 What I'm Working On
-
-🔹 Machine Learning Projects
-
-🔹 Full Stack Web Applications
-
-🔹 Open Source Contributions
-
-🔹 Problem Solving & DSA
-
-🔹 Building Real World Software Solutions
+> Building impactful software that solves real-world challenges.
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
+### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript"/>
 </p>
 
-## 🌐 Full Stack Development
+### Full Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
 </p>
 
-## 🎨 UI/UX & Design
+### UI/UX
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,canva" />
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-## ⚙️ Tools & Platforms
+### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
-## 🌾 Climate-Responsive Crop Recommendation
+### 🌾 Climate-Responsive Crop Recommendation
 
-An intelligent recommendation system that suggests suitable crops based on climate, soil conditions, and environmental factors to improve agricultural productivity and sustainability.
+AI-powered crop recommendation system that suggests suitable crops based on climate and environmental conditions.
 
-### Technologies Used
-
-- Python
-- Machine Learning
-- Data Analysis
+**Tech Stack:** Python • Machine Learning • Data Analysis
 
 ---
 
-## 🏧 ATM Cash Requirement Prediction
+### 🏧 ATM Cash Requirement Prediction
 
-Machine Learning model that predicts ATM cash demand to optimize cash distribution and prevent shortages.
+Predicts ATM cash demand using historical transaction data to reduce shortages.
 
-### Technologies Used
-
-- Python
-- Machine Learning
-- Data Analytics
+**Tech Stack:** Python • ML • Analytics
 
 ---
 
-## 🍽️ Canteen Food Management System
+### 🍽️ Canteen Food Management System
 
-A smart digital platform designed to streamline college canteen operations by enabling students to pre-order meals, track orders, and make cashless payments.
+Smart canteen platform for online ordering, digital payments, inventory management, and queue reduction.
 
-### Key Features
+**Features**
 
-✔ Online Food Ordering
+✅ Food Ordering
 
-✔ Digital Menu Management
+✅ QR Tracking
 
-✔ QR-Based Order Tracking
+✅ Admin Dashboard
 
-✔ Cashless Payments
+✅ Cashless Payments
 
-✔ Inventory Management
+✅ Inventory Management
 
-✔ Student & Admin Dashboard
-
-✔ Food Waste Reduction
-
-✔ Sales Analytics
-
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-- Node.js
-- Figma
+**Tech Stack:** HTML • CSS • JavaScript • MongoDB • Node.js
 
 ---
 
-## 🌍 EcoQuest: Gamified Environmental Learning Platform
+### 🌍 EcoQuest: Gamified Environmental Learning Platform
 
-An interactive educational platform that promotes environmental awareness through quizzes, challenges, rewards, and sustainability missions.
+Interactive learning platform that teaches environmental awareness through quizzes and rewards.
 
-### Technologies Used
-
-- Python
-- HTML
-- CSS
-- JavaScript
+**Tech Stack:** Python • HTML • CSS • JavaScript
 
 ---
 
-## 🏠 House Rent & House Pooling Platform
+### 🏠 House Rent & House Pooling Platform
 
-A web-based platform that helps users find rental houses, share accommodation costs, and connect with potential roommates.
+Platform that connects tenants and roommates to reduce accommodation expenses.
 
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- MongoDB
+**Tech Stack:** HTML • CSS • JavaScript • MongoDB
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikashkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -185,29 +154,37 @@ A web-based platform that helps users find rental houses, share accommodation co
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night)](https://github.com/dikashkumar)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Build 15+ Real World Projects
+🚀 Build 15+ Projects
 
-✅ Master Python Development
+🚀 Master Python
 
-✅ Strengthen DSA Skills
+🚀 Learn Cloud & DevOps
 
-✅ Learn Cloud & DevOps
+🚀 Contribute to Open Source
 
-✅ Contribute to Open Source
+🚀 Become a Software Developer
 
-✅ Secure Software Engineering Internship
+🚀 Secure Top Internship
 
 ---
 
@@ -221,7 +198,7 @@ A web-based platform that helps users find rental houses, share accommodation co
 
 🏅 Programming in Java
 
-🏅 NPTEL Courses
+🏅 NPTEL Certifications
 
 ---
 
@@ -254,32 +231,32 @@ while True:
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/dikashkumar">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/dikashkumar-s">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:dikashkumar5123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building Solutions, One Commit At A Time
+## 🚀 Building Solutions One Commit At A Time
 
-⭐ Thanks for visiting my profile!
+### ⭐ Code • Learn • Build • Repeat
 
-💡 "Code. Learn. Build. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6"/>
 
 </div>
