@@ -79,7 +79,7 @@
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vscode,jupyter notebook" />
 </p>
 
 ---
