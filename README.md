@@ -21,6 +21,7 @@
 📍 Tamil Nadu, India
 
 💻 Passionate about:
+
 - Software Development
 - Machine Learning
 - Data Science
@@ -28,6 +29,7 @@
 - UI/UX Design
 
 🌱 Currently Learning:
+
 - Advanced Python
 - Data Structures & Algorithms
 - Machine Learning
@@ -35,6 +37,7 @@
 - Cloud Technologies
 
 🎯 Career Goal:
+
 > To become a Software Engineer who builds innovative and impactful solutions for real-world problems.
 
 ---
@@ -58,7 +61,7 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
 </p>
 
 ## 🌐 Full Stack Development
@@ -83,58 +86,69 @@
 
 # 🏆 Featured Projects
 
-## 🏠 House Rent & House Pooling Platform
-
-A web-based platform that enables users to:
-
-✔ Find rental houses
-
-✔ Share accommodation costs
-
-✔ Connect with potential roommates
-
-✔ Reduce living expenses through house pooling
-
-### Technologies Used
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-
----
-
 ## 🌾 Climate-Responsive Crop Recommendation
 
-An intelligent recommendation system that suggests suitable crops based on:
-
-✔ Climate conditions
-
-✔ Soil characteristics
-
-✔ Environmental factors
-
-✔ Agricultural data analysis
+An intelligent recommendation system that suggests suitable crops based on climate, soil conditions, and environmental factors to improve agricultural productivity and sustainability.
 
 ### Technologies Used
+
 - Python
 - Machine Learning
 - Data Analysis
 
 ---
 
-## 🌍 EcoQuest: Gamified Environmental Learning Platform
+## 🏧 ATM Cash Requirement Prediction
 
-An educational platform that makes environmental learning fun through:
-
-✔ Interactive Challenges
-
-✔ Quizzes & Rewards
-
-✔ Eco Missions
-
-✔ Sustainability Awareness
+Machine Learning model that predicts ATM cash demand to optimize cash distribution and prevent shortages.
 
 ### Technologies Used
+
+- Python
+- Machine Learning
+- Data Analytics
+
+---
+
+## 🍽️ Canteen Food Management System
+
+A smart digital platform designed to streamline college canteen operations by enabling students to pre-order meals, track orders, and make cashless payments.
+
+### Key Features
+
+✔ Online Food Ordering
+
+✔ Digital Menu Management
+
+✔ QR-Based Order Tracking
+
+✔ Cashless Payments
+
+✔ Inventory Management
+
+✔ Student & Admin Dashboard
+
+✔ Food Waste Reduction
+
+✔ Sales Analytics
+
+### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- Node.js
+- Figma
+
+---
+
+## 🌍 EcoQuest: Gamified Environmental Learning Platform
+
+An interactive educational platform that promotes environmental awareness through quizzes, challenges, rewards, and sustainability missions.
+
+### Technologies Used
+
 - Python
 - HTML
 - CSS
@@ -142,22 +156,16 @@ An educational platform that makes environmental learning fun through:
 
 ---
 
-## 🏧 ATM Cash Requirement Prediction
+## 🏠 House Rent & House Pooling Platform
 
-Machine Learning model that predicts ATM cash demand to:
-
-✔ Reduce cash shortages
-
-✔ Improve cash management
-
-✔ Optimize ATM operations
-
-✔ Enhance banking efficiency
+A web-based platform that helps users find rental houses, share accommodation costs, and connect with potential roommates.
 
 ### Technologies Used
-- Python
-- Machine Learning
-- Data Analytics
+
+- HTML
+- CSS
+- JavaScript
+- MongoDB
 
 ---
 
@@ -169,6 +177,8 @@ Machine Learning model that predicts ATM cash demand to:
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dikashkumar&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikashkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -176,6 +186,12 @@ Machine Learning model that predicts ATM cash demand to:
 # 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikashkumar&theme=tokyo-night)](https://github.com/dikashkumar)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
@@ -222,6 +238,22 @@ while True:
 
 ---
 
+# 🌟 Areas of Interest
+
+🤖 Machine Learning
+
+📊 Data Science
+
+🌐 Full Stack Development
+
+🎨 UI/UX Design
+
+☁️ Cloud Computing
+
+🚀 Emerging Technologies
+
+---
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -230,7 +262,7 @@ while True:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://linkedin.com/in/dikashkumar-s">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -247,5 +279,7 @@ while True:
 ### 🚀 Building Solutions, One Commit At A Time
 
 ⭐ Thanks for visiting my profile!
+
+💡 "Code. Learn. Build. Repeat."
 
 </div>
