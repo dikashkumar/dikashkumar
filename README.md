@@ -42,7 +42,7 @@ Computer Science Engineering Student • Python Developer • ML Enthusiast
 
 🎯 Goal
 
-Become a Software Engineer building impactful real-world solutions.
+Become a Software Developer building impactful real-world solutions.
 
 ---
 
