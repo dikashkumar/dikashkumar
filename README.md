@@ -18,7 +18,7 @@
 
 🏫 SNS College of Technology, Coimbatore
 
-📍 Tamil Nadu, India
+📍 Coimbatore,Tamil Nadu, India
 
 💻 Passionate about:
 
@@ -61,7 +61,7 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ## 🌐 Full Stack Development
@@ -73,13 +73,13 @@
 ## 🎨 UI/UX & Design
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
