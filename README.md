@@ -18,7 +18,7 @@
 
 🏫 SNS College of Technology, Coimbatore
 
-📍 Tamil Nadu, India
+📍Coimbatore Tamil Nadu, India
 
 💻 Passionate about:
 
@@ -79,7 +79,7 @@
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode,jupyter notebook" />
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
