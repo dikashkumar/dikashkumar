@@ -141,11 +141,6 @@ Find rental houses and connect with roommates.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dikashkumar&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
 
 ---
 
@@ -191,7 +186,7 @@ Find rental houses and connect with roommates.
 
 </p>
 ---
-## 💻 Developer Mindset
+# 💻 Developer Mindset
 
 ```python
 while True:
