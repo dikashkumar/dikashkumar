@@ -22,6 +22,8 @@ Computer Science Engineering Student • Python Developer • ML Enthusiast
 
 📍 Tamil Nadu, India
 
+📊 CGPA: 8.4 / 10.0
+
 💡 Passionate About
 
 - Software Development
