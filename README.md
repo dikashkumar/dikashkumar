@@ -1,106 +1,162 @@
 <div align="center">
 
-# 👋 Hi, I'm Dikash Kumar S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Dikash%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
-### Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
+# 👋 Hey, I'm Dikash Kumar S
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
+### 🚀 Computer Science Engineering Student | Python Developer | Full Stack Developer | ML Enthusiast
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+🐍;Machine+Learning+Explorer+🤖;Full+Stack+Developer+🌐;UI%2FUX+Designer+🎨;Future+Software+Engineer+🚀;Always+Learning+New+Technologies+💡"/>
 
-<img src="https://komarev.com/ghpvc/?username=dikashkumar&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=dikashkumar&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/dikashkumar?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a Computer Science Engineering student at **SNS College of Technology, Coimbatore** with a strong interest in **Machine Learning, Full Stack Development, Data Science, and UI/UX Design**.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikashkumar&theme=tokyonight"/>
 
-I enjoy building practical software solutions that solve real-world problems and continuously improving my technical skills through projects and hands-on learning.
-
-### Current Focus
-
-- Machine Learning
-- Full Stack Development
-- Problem Solving & DSA
-- Data Science
-- Open Source Learning
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
+```yaml
+Name: Dikash Kumar S
 
-<p>
+Education:
+  Degree: B.E Computer Science and Engineering
+  College: SNS College of Technology
+  Location: Coimbatore, Tamil Nadu
+
+Passionate About:
+  - Machine Learning
+  - Full Stack Development
+  - Data Science
+  - UI/UX Design
+  - Emerging Technologies
+
+Currently Learning:
+  - Advanced Python
+  - MongoDB
+  - DSA
+  - Cloud Computing
+  - Machine Learning
+
+Career Goal:
+  Become a Software Developer who builds
+  impactful solutions for real-world problems.
+```
+
+---
+
+# 🚀 Current Focus
+
+🔹 Building Real World Projects
+
+🔹 Machine Learning Applications
+
+🔹 Full Stack Development
+
+🔹 Open Source Contributions
+
+🔹 Improving Problem Solving Skills
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript"/>
 </p>
 
-### Full Stack Development
+## Full Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
 </p>
 
-### UI / UX Design
+## UI / UX
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-### Tools & Platforms
+## Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📊 Skill Matrix
 
-### 🌾 Climate-Responsive Crop Recommendation
-
-A Machine Learning-based system that recommends suitable crops based on climate conditions, soil properties, and environmental factors to support sustainable agriculture.
-
-**Tech Stack:** Python, Machine Learning, Data Analysis
-
----
-
-### 🏧 ATM Cash Requirement Prediction
-
-A predictive analytics project that forecasts ATM cash demand using historical transaction data, helping optimize cash distribution and reduce shortages.
-
-**Tech Stack:** Python, Machine Learning, Data Analytics
+| Category | Skills |
+|-----------|---------|
+| Programming | Python, C, Java |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js |
+| Database | MongoDB |
+| Design | Figma, Canva |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-### 🍽️ Canteen Food Management System
+# 🚀 Featured Projects
 
-A smart web-based canteen platform that enables food ordering, inventory management, digital payments, and efficient order tracking for students and administrators.
+## 🌾 Climate-Responsive Crop Recommendation
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB
+AI-powered crop recommendation system that suggests suitable crops based on climate and environmental conditions.
 
----
-
-### 🌍 EcoQuest: Gamified Environmental Learning Platform
-
-An interactive learning platform designed to promote environmental awareness through quizzes, challenges, rewards, and sustainability-focused activities.
-
-**Tech Stack:** Python, HTML, CSS, JavaScript
+**Tech Stack:** Python • Machine Learning • Data Analysis
 
 ---
 
-### 🏠 House Rent & House Pooling Platform
+## 🏧 ATM Cash Requirement Prediction
 
-A web application that helps users discover rental properties, connect with roommates, and reduce accommodation expenses through house pooling.
+Predicts ATM cash demand using historical transaction data to reduce shortages.
 
-**Tech Stack:** HTML, CSS, JavaScript, MongoDB
+**Tech Stack:** Python • Machine Learning • Data Analytics
 
 ---
 
-## 📊 GitHub Statistics
+## 🍽️ Canteen Food Management System
+
+Smart canteen platform for online ordering, inventory management, digital payments, and queue reduction.
+
+**Tech Stack:** HTML • CSS • JavaScript • MongoDB • Node.js
+
+---
+
+## 🌍 EcoQuest: Gamified Environmental Learning Platform
+
+Interactive environmental learning platform with quizzes, rewards, and eco-challenges.
+
+**Tech Stack:** Python • HTML • CSS • JavaScript
+
+---
+
+## 🏠 House Rent & House Pooling Platform
+
+Platform that helps users find rental homes and connect with roommates.
+
+**Tech Stack:** HTML • CSS • JavaScript • MongoDB
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -118,7 +174,7 @@ A web application that helps users discover rental properties, connect with room
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -128,53 +184,68 @@ A web application that helps users discover rental properties, connect with room
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 2026 Goals
 
-- Build 15+ Real-World Projects
-- Strengthen Data Structures & Algorithms
-- Master Python Development
-- Learn Cloud Computing & DevOps
-- Contribute to Open Source Projects
-- Secure a Software Development Internship
+✅ Build 15+ Projects
 
----
+✅ Master Python
 
-## 📚 Certifications
+✅ Learn Cloud & DevOps
 
-- Microsoft Azure AI Fundamentals
-- TATA GenAI Powered Data Analytics
-- Infosys Basics of Python
-- Programming in Java
-- NPTEL Certifications
+✅ Contribute to Open Source
+
+✅ Become a Software Developer
+
+✅ Secure Top Internship
 
 ---
 
-## 🌟 Areas of Interest
+# 📚 Certifications
 
-- Machine Learning
-- Data Science
-- Full Stack Development
-- UI/UX Design
-- Cloud Computing
-- Emerging Technologies
+🏅 Microsoft Azure AI Fundamentals
+
+🏅 TATA GenAI Powered Data Analytics
+
+🏅 Infosys Basics of Python
+
+🏅 Programming in Java
+
+🏅 NPTEL Certifications
 
 ---
 
-## 💡 Developer Mindset
+# 💡 Developer Mindset
 
 ```python
 while True:
     learn()
     build()
+    fail()
     improve()
     repeat()
 ```
 
 ---
 
-## 🤝 Connect With Me
+# 🌟 Areas of Interest
 
-<p align="center">
+🤖 Machine Learning
+
+📊 Data Science
+
+🌐 Full Stack Development
+
+🎨 UI/UX Design
+
+☁️ Cloud Computing
+
+🚀 Emerging Technologies
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/dikashkumar">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -188,14 +259,18 @@ while True:
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building Solutions Through Code
+## 🚀 Building Solutions One Commit At A Time
 
-**Code • Learn • Build • Improve**
+### ⭐ Code • Learn • Build • Repeat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=600&lines=Dream+Big+💡;Code+Every+Day+🚀;Build+Projects+🔥;Keep+Learning+📚;Never+Stop+Growing+⭐"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6"/>
 
 </div>
