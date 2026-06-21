@@ -173,7 +173,24 @@ Find rental houses and connect with roommates.
 🏅 NPTEL Courses
 
 ---
+# 🤝 Let's Connect
 
+<p align="center">
+
+<a href="https://github.com/dikashkumar">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/dikashkumar-s">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:dikashkumar5123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+---
 ## 💻 Developer Mindset
 
 ```python
