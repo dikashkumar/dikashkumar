@@ -38,7 +38,7 @@
 
 🎯 Career Goal:
 
-> To become a Software Engineer who builds innovative and impactful solutions for real-world problems.
+> To become a Software Developer who builds innovative and impactful solutions for real-world problems.
 
 ---
 
