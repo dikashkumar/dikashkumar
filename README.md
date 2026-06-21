@@ -186,11 +186,10 @@ Find rental houses and connect with roommates.
 
 </p>
 ---
-# 💻 Developer Mindset
+<div align="center">
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-    repeat()
+### 🚀 Building Solutions, One Commit At A Time
+
+⭐ Thanks for visiting my profile!
+
+💡 "Code. Learn. Build. Repeat."
